@@ -1,0 +1,27 @@
+{
+  "name": "electronproducts",
+  "version": "1.0.0",
+  "description": "Aplicacion Desktop usando ElectronJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarlandLohora/ElectronProducts.git"
+  },
+  "keywords": [
+    "Harland",
+    "Lohora",
+    "XD"
+  ],
+  "author": "Harland Lohora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarlandLohora/ElectronProducts/issues"
+  },
+  "homepage": "https://github.com/HarlandLohora/ElectronProducts#readme",
+  "dependencies": {
+    "electron": "^3.0.10"
+  }
+}
