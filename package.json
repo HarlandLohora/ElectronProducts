@@ -4,7 +4,8 @@
   "description": "Aplicacion Desktop usando ElectronJS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron src/index.js"
   },
   "repository": {
     "type": "git",
@@ -12,8 +13,7 @@
   },
   "keywords": [
     "Harland",
-    "Lohora",
-    "XD"
+    "Lohora"
   ],
   "author": "Harland Lohora",
   "license": "ISC",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/HarlandLohora/ElectronProducts#readme",
   "dependencies": {
-    "electron": "^3.0.10"
+    "electron": "^3.0.10",
+    "electron-reload": "^1.3.0"
   }
 }
